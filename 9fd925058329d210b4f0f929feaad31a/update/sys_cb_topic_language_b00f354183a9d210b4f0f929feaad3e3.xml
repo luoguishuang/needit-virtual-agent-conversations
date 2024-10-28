@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_language">
+    <sys_cb_topic_language action="INSERT_OR_UPDATE">
+        <cb_topic_id display_value="Update NeedIt Records">29c0358d8329d210b4f0f929feaad3a4</cb_topic_id>
+        <language_code>en</language_code>
+        <nlu_entities>[{"node_id":"02778141d8cb4ad0b187cae9dad8fa00","variable_name":"needit_list","nlu_entity":"","nlu_entity_label":""},{"node_id":"88652d590ed94b6a9f40ad48726dd581","variable_name":"search_again","nlu_entity":"","nlu_entity_label":""},{"node_id":"7bffc4c939b044c79e146e5f2ac2cf4f","variable_name":"new_when_needed_date","nlu_entity":"","nlu_entity_label":""},{"node_id":"466f9e9ae640469bb4d21124f5f98236","variable_name":"search_count","nlu_entity":"","nlu_entity_label":""}]</nlu_entities>
+        <nlu_intent>UpdateChangeRequest</nlu_intent>
+        <nlu_intent_label>UpdateChangeRequest</nlu_intent_label>
+        <nlu_model>sn_itsm_nlu_ITSM_NLU_for_VA</nlu_model>
+        <nlu_model_label>ITSM NLU for Virtual Agent</nlu_model_label>
+        <nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider>
+        <sys_class_name>sys_cb_topic_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 02:01:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>b00f354183a9d210b4f0f929feaad3e3</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_1550259_needit_v">9fd925058329d210b4f0f929feaad31a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">9fd925058329d210b4f0f929feaad31a</sys_scope>
+        <sys_update_name>sys_cb_topic_language_b00f354183a9d210b4f0f929feaad3e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 04:52:45</sys_updated_on>
+    </sys_cb_topic_language>
+</record_update>
